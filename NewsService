@@ -1,0 +1,2 @@
+http://api.mediastack.com/v1/news?access_key=02132885fa35b1256c313732d6426348
+&source=example&publishedDateStart=2023-07-12&publishedDateEnd=2023-07-12&titleContains=example&country=us&language=en&page=1&limit=10 
